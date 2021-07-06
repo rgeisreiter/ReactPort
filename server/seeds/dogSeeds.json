@@ -1,0 +1,102 @@
+[
+  {
+    "image": "http://cdn.akc.org/content/article-body-image/keeshond_dog_pictures.jpg",
+    "name": "Henry",
+    "desc": "Henry's a fun loving fluffy buddy!",
+    "age": "2",
+    "size": "large",
+    "gender": true,
+    "liked": true,
+    "adopted": false
+  },
+  {
+    "image": "http://cdn.akc.org/content/article-body-image/golden_puppy_dog_pictures.jpg",
+    "name": "Jasper",
+    "desc": "Jasper is a little cuddle bug.",
+    "age": "10",
+    "size": "small",
+    "gender": true,
+    "liked": false,
+    "adopted": false
+  },
+  {
+    "image": "http://cdn.akc.org/content/article-body-image/pumi_dog_pictures.jpg",
+    "name": "Meelow",
+    "desc": "Meelow isn't the smartest, but he's a happy boi.",
+    "age": "5",
+    "size": "medium",
+    "gender": false,
+    "liked": true,
+    "adopted": true
+  },
+  {
+    "image": "http://cdn.akc.org/content/article-body-image/newfoundland_dog_pictures.jpg",
+    "name": "Bailey",
+    "desc": "Bailey is a big girl who loves nothing more than attention from her ownera",
+    "age": "5",
+    "size": "large",
+    "gender": false,
+    "liked": true,
+    "adopted": true
+  },
+  {
+    "image": "http://cdn.akc.org/content/article-body-image/schipperke_dog_pictures.jpg",
+    "name": "Penny",
+    "desc": "Penny is very energetic and needs a lot of exercise daily.",
+    "age": "5",
+    "size": "medium",
+    "gender": false,
+    "liked": false,
+    "adopted": false
+  },
+  {
+    "image": "http://cdn.akc.org/content/article-body-image/rottweiler_dog_pictures.jpg",
+    "name": "Coco",
+    "desc": "Coco is a gentle giant.",
+    "age": "5",
+    "size": "large",
+    "gender": false,
+    "liked": false,
+    "adopted": true
+  },
+  {
+    "image": "http://cdn.akc.org/content/article-body-image/bostonterriersmalldogs.jpg",
+    "name": "Lady",
+    "desc": "Lady has the most personality. She thinks that she is a human.",
+    "age": "1",
+    "size": "medium",
+    "gender": false,
+    "liked": true,
+    "adopted": false
+  },
+  {
+    "image": "http://cdn.akc.org/content/article-body-image/lab_puppy_dog_pictures.jpg",
+    "name": "Duke",
+    "desc": "Duke loves to run and it is recommended that he has a large yard to play.",
+    "age": "1",
+    "size": "medium",
+    "gender": true,
+    "liked": false,
+    "adopted": true
+  },
+  {
+    "image": "http://cdn.akc.org/content/article-body-image/am_staff_dog_pictures.jpg",
+    "name": "Tully",
+    "desc": "Tully is a very sweet girl. She will kill you with kindness.",
+    "age": "3",
+    "size": "medium",
+    "gender": false,
+    "liked": true,
+    "adopted": true
+  },
+  {
+    "image": "http://cdn.akc.org/content/article-body-image/husky_sideways_dog_pictures_.jpg",
+    "name": "Kobe",
+    "desc": "We named him Kobe because his incredible athleticism.",
+    "age": "2",
+    "size": "medium",
+    "gender": true,
+    "liked": true,
+    "adopted": false
+  }
+]
